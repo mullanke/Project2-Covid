@@ -1,4 +1,4 @@
-[
+var data2 = [
   {
     date: "3/7/2021",
     deathConfirmed: "15666",
