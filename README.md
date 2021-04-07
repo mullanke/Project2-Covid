@@ -32,7 +32,7 @@ Theme
 •	A corresponding graph that visualizes and compares confirmed cases by state 
 
 Data Source
-Our dataset was obtained from “Covid data” (https://www.kaggle.com/xxxx)  as well as https://data-flair.training/blogs/download-covid-19-dataset/. This dataset contains United States and Michigan data between April 2020 and March 2021.
+Our dataset was obtained from “Covid data” (https://covidtracking.com/data)  as well as https://data-flair.training/blogs/download-covid-19-dataset/. This dataset contains United States and Michigan data between April 2020 and March 2021.
 User-driven interaction
 This website provides the user with an interactive navigation bar, search and filter button on the first tab. The cases in America heat map displays the distinct locations with high cases. It also provides an interactive feature that allows users to hover and view number of cases by province. 
 Coding Approach 
